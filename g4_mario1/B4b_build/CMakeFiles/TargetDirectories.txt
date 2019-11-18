@@ -1,0 +1,6 @@
+/home/alex/work/g4_mario1/B4b_build/CMakeFiles/install/local.dir
+/home/alex/work/g4_mario1/B4b_build/CMakeFiles/edit_cache.dir
+/home/alex/work/g4_mario1/B4b_build/CMakeFiles/exampleB4b.dir
+/home/alex/work/g4_mario1/B4b_build/CMakeFiles/rebuild_cache.dir
+/home/alex/work/g4_mario1/B4b_build/CMakeFiles/list_install_components.dir
+/home/alex/work/g4_mario1/B4b_build/CMakeFiles/install.dir
